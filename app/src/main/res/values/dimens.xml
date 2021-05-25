@@ -2,4 +2,11 @@
 <resources>
     <dimen name="medium_text">23sp</dimen>
     <dimen name="medium_space">16dp</dimen>
+    <dimen name="medium_dimension">17dp</dimen>
+    <dimen name="padding_dim">15dp</dimen>
+    <dimen name="small_dim">15dp</dimen>
+    <dimen name="padding_dim_vert">30dp</dimen>
+    <dimen name="margin_dim">10dp</dimen>
+    <dimen name="padding_editText">15dp</dimen>
+    <dimen name="padding_edit">10dp</dimen>
 </resources>
